@@ -1,0 +1,34 @@
+{
+  "name": "MiniManager",
+  "version": "0.1.0",
+  "description": "Enable or disable the methods and properties in an object",
+  "main": "minimanager.js",
+  "scripts": {
+    "test": "./node_modules/.bin/mocha ./test"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git://github.com/mrfishie/MiniManager.git"
+  },
+  "keywords": [
+    "manage",
+    "enable",
+    "disable",
+    "method",
+    "object",
+    "instance",
+    "minimanager",
+    "mini"
+  ],
+  "author": "mrfishie <me@mrfishie.com> (http://mrfishie.com/)",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/mrfishie/MiniManager/issues"
+  },
+  "homepage": "https://github.com/mrfishie/MiniManager",
+  "devDependencies": {
+    "chai": "^2.1.2",
+    "chai-spies": "^0.5.1",
+    "mocha": "^2.2.1"
+  }
+}

@@ -1,0 +1,33 @@
+{
+  "name": "MiniManager",
+  "main": "MiniManager.js",
+  "version": "0.1.0",
+  "authors": [
+    "mrfishie <me@mrfishie.com>"
+  ],
+  "description": "Enable or disable the methods and properties in an object",
+  "moduleType": [
+    "amd",
+    "globals",
+    "node"
+  ],
+  "keywords": [
+    "manage",
+    "enable",
+    "disable",
+    "method",
+    "object",
+    "instance",
+    "minimanager",
+    "mini"
+  ],
+  "license": "MIT",
+  "homepage": "https://github.com/mrfishie/MiniManager",
+  "ignore": [
+    "**/.*",
+    "node_modules",
+    "bower_components",
+    "test",
+    "tests"
+  ]
+}
