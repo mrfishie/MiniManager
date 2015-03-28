@@ -1,5 +1,7 @@
 # MiniManager
 
+[![Build Status](https://travis-ci.org/mrfishie/MiniManager.svg)](https://travis-ci.org/mrfishie/MiniManager)
+
 MiniManager allows you to enable or disable function calling and read-only properties on an object.
 
 	var evt = new EventEmitter();
