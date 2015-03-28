@@ -54,7 +54,11 @@ Now the class will be defined in the global scope.
 
 MiniManager tests are run with Mocha, and use Chai for assertions. All tests are in the `test` folder.
 
-To run all tests, use the NPM test command.
+To run all tests, first install all NPM dependencies.
+
+	npm install
+
+Now run the NPM test command.
 
 	npm test
 

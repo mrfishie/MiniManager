@@ -1,5 +1,5 @@
 {
-  "name": "MiniManager",
+  "name": "minimanager",
   "version": "0.1.0",
   "description": "Enable or disable the methods and properties in an object",
   "main": "minimanager.js",
